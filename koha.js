@@ -1,4 +1,4 @@
-var q = decodeURIComponent(getQueryVariable('q')).replace('+',' ');
+var q = decodeURIComponent(getQueryVariable('q')).replace(/\+/g,' ');
 
 var newDiv = document.createElement("div");
 

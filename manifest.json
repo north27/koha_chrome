@@ -1,6 +1,6 @@
 {
     "name": "Koha",
-    "version": "1.3.2",
+    "version": "1.3.3",
     "description": "Provide search results from Koha alongside Google results",
     "manifest_version": 2,
     "permissions": [
